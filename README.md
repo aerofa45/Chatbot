@@ -1,7 +1,7 @@
 
 ---
 
-# 📘 **Build a Complete Medical Chatbot with LLMs, LangChain, Pinecone, Flask & AWS CI/CD**
+# **Build a Complete Medical Chatbot with LLMs, LangChain, Pinecone, Flask & AWS CI/CD**
 
 This project demonstrates how to build a **production-ready medical chatbot** using:
 
@@ -15,7 +15,7 @@ This project demonstrates how to build a **production-ready medical chatbot** us
 
 ---
 
-# 🚀 **Local Development Setup**
+# **Local Development Setup**
 
 ## **1. Clone the Repository**
 
@@ -78,7 +78,7 @@ http://localhost:8080
 
 ---
 
-# 🧰 **Tech Stack**
+# **Tech Stack**
 
 * **Python 3.10**
 * **LangChain**
@@ -91,7 +91,7 @@ http://localhost:8080
 
 ---
 
-# 🏗️ **AWS Deployment with GitHub Actions (CI/CD Pipeline)**
+# **AWS Deployment with GitHub Actions (CI/CD Pipeline)**
 
 This project includes full CI/CD automation to deploy your Dockerized chatbot to AWS.
 
